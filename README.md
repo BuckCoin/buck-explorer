@@ -7,8 +7,6 @@ An open source block explorer written in node.js.
 
 *  [BUCK](https://explorer.buck.red)
 
-*note: If you would like your instance mentioned here contact me*
-
 ### New Features in BUCK Explorer
 
 *   Added Mining Pool Menu
